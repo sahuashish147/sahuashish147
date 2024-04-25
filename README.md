@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1zOjNjCrAro_x5ir_iHFPMHZcUpXBk5Hi?usp=share_link](https://drive.google.com/drive/folders/1zOjNjCrAro_x5ir_iHFPMHZcUpXBk5Hi?usp=share_link)
-
-- 💬 Ask me about **SQL, excel, tableau, machine learning**
-
-- 📫 How to reach me **sahu.ashish147@gmail.com**
+- 💬 Ask me about **SQL, Excel, Tableau, Python, Power BI, Data analysis, Data visualization, and machine learning**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/114GEQ_8b97usGH8W5gEKhbhLU-nac2WQ?usp=share_link](https://drive.google.com/drive/folders/114GEQ_8b97usGH8W5gEKhbhLU-nac2WQ?usp=share_link)
 
-- ⚡ Fun fact **Travlling, parties, trekking, coding**
+- ⚡ Fun fact **Travelling, trekking, coding, novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
