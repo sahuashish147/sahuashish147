@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish-sahu-13b000186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-sahu-13b000186" height="30" width="40" /></a>
 <a href="https://instagram.com/ashistic_lad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashistic_lad" height="30" width="40" /></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="blank"><img align="center" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahu_ashish147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahu_ashish147" height="30" width="40" /></a>
 </p>
 
